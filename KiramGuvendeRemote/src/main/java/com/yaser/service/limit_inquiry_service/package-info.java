@@ -1,8 +1,2 @@
-/**
- * @author U083327 - <strong><font color=red>Yaşar Yaşa</font></strong>
- * Dec 14, 2018
- */
-/**
- * @author U083327 - <strong><font color=red>Yaşar Yaşa</font></strong>
- */
+@javax.xml.bind.annotation.XmlSchema(namespace = "http://intf.service.paymentsystem.api.cca.hmn.ykb.com/")
 package com.yaser.service.limit_inquiry_service;
